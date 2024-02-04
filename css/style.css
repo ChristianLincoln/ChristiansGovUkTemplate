@@ -1,0 +1,25 @@
+@font-face {
+  font-family: hyperlegible;
+  src: url(/static/fonts/AtkinsonHyperlegible-Regular.ttf);
+}
+.govuk-header__menu-option {
+  position: inherit !important;
+}
+.govuk-header__navigation--right {
+  display:inline-block !important;
+  right:0 !important;
+  float: right;
+  position:inherit;
+}
+.govuk-header__drop-down {
+  background-color: #f3f2f1;
+}
+.govuk-footer {
+  padding-left:20px !important;
+}
+.govuk-list > li {
+  margin-top:10px;
+}
+p {
+  color: #000;
+}
